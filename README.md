@@ -69,3 +69,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 # react-beach-resort
 # beach resort built with react hooks
 #React beach resort
+# beach-resort
